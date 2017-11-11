@@ -1,0 +1,21 @@
+{
+  "name": "first_project",
+  "version": "1.0.0",
+  "description": "first project in javascript",
+  "main": "index.html",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EwaStosik/simple-js.git"
+  },
+  "author": "Ewa Stosik",
+  "bugs": {
+    "url": "https://github.com/EwaStosik/simple-js/issues"
+  },
+  "homepage": "https://github.com/EwaStosik/simple-js#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-imagemin": "^2.0.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-sass": "^2.0.0"
+  }
+}
